@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextMessagePPT", "..\documents\visual studio 2015\Projects\PowerPointWebAddIn1\PowerPointWebAddIn1\TextMessagePPT.csproj", "{AB77BFD7-8EC0-4264-9799-08D68E4DB400}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextMessagePPT", "PowerPointWebAddIn1\PowerPointWebAddIn1\TextMessagePPT.csproj", "{AB77BFD7-8EC0-4264-9799-08D68E4DB400}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextMessagePPTWeb", "..\documents\visual studio 2015\Projects\PowerPointWebAddIn1\PowerPointWebAddIn1Web\TextMessagePPTWeb.csproj", "{D655D6FD-E0C0-437C-B165-9B847D259D0F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextMessagePPTWeb", "PowerPointWebAddIn1\PowerPointWebAddIn1Web\TextMessagePPTWeb.csproj", "{D655D6FD-E0C0-437C-B165-9B847D259D0F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
