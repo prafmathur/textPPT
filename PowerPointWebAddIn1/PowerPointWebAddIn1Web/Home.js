@@ -16,9 +16,7 @@
             messageBanner.hideBanner();
 
             getSelectedRange();
-            $('#get-data-from-selection').click(getDataFromSelection);
-            $('#goToFirstSlide').click(goToFirstSlide);
-
+            setInterval(makeRequest, 5000)
         });
     };
 
@@ -59,20 +57,23 @@
     }
 
 
-    function goToFirstSlide() {
-
-        console.log('go')
-
-        var request = new XMLHttpRequest();
-
-
-
-        var socket = io.connect('http://localhost:3000');
-        socket.on('news', function (data) {
-            console.log(data);
-            socket.emit('my other event', { my: 'data' });
+    function makeRequest() {
+        $.ajax({
+            url: "http://localhost:3000",
+            crossDomain: true,
+            dataType: "jsonp",
+            success: function (data) {
+                console.log(data)
+            },
+            error: function (e) {
+                console.log(e)
+            }
         });
+    }
 
+
+
+    function goToFirstSlide() {
         Office.context.document.goToByIdAsync(Globals.firstSlideId, Office.GoToType.Slide, function (asyncResult) {
             if (asyncResult.status == "failed") {
                 showNotification("Action failed with error: " + asyncResult.error.message);

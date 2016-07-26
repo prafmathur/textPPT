@@ -11,3 +11,16 @@ c:\users\prmat\documents\visual studio 2015\Projects\PowerPointWebAddIn1\PowerPo
 c:\users\prmat\documents\visual studio 2015\Projects\PowerPointWebAddIn1\PowerPointWebAddIn1\bin\Debug\roslyn\VBCSCompiler.exe
 c:\users\prmat\documents\visual studio 2015\Projects\PowerPointWebAddIn1\PowerPointWebAddIn1\bin\Debug\roslyn\VBCSCompiler.exe.config
 C:\Users\prmat\documents\visual studio 2015\Projects\PowerPointWebAddIn1\PowerPointWebAddIn1\obj\Debug\TextMessagePPT.csprojResolveAssemblyReference.cache
+C:\Users\prmat\projects\textPPT\PowerPointWebAddIn1\PowerPointWebAddIn1\bin\Debug\roslyn\csc.exe
+C:\Users\prmat\projects\textPPT\PowerPointWebAddIn1\PowerPointWebAddIn1\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\prmat\projects\textPPT\PowerPointWebAddIn1\PowerPointWebAddIn1\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\prmat\projects\textPPT\PowerPointWebAddIn1\PowerPointWebAddIn1\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\prmat\projects\textPPT\PowerPointWebAddIn1\PowerPointWebAddIn1\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\prmat\projects\textPPT\PowerPointWebAddIn1\PowerPointWebAddIn1\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\prmat\projects\textPPT\PowerPointWebAddIn1\PowerPointWebAddIn1\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\prmat\projects\textPPT\PowerPointWebAddIn1\PowerPointWebAddIn1\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\prmat\projects\textPPT\PowerPointWebAddIn1\PowerPointWebAddIn1\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\prmat\projects\textPPT\PowerPointWebAddIn1\PowerPointWebAddIn1\bin\Debug\roslyn\vbc.exe
+C:\Users\prmat\projects\textPPT\PowerPointWebAddIn1\PowerPointWebAddIn1\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\prmat\projects\textPPT\PowerPointWebAddIn1\PowerPointWebAddIn1\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\prmat\projects\textPPT\PowerPointWebAddIn1\PowerPointWebAddIn1\obj\Debug\TextMessagePPT.csprojResolveAssemblyReference.cache

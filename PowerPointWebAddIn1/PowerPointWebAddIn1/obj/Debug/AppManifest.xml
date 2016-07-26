@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <App xmlns="http://schemas.microsoft.com/sharepoint/2012/app/manifest"
      Name="TextMessagePPT"
-     ProductID="{55c54e58-b92a-42cf-8f1c-bf51b009fe7b}"
+     ProductID="{f0c38f79-d603-45ea-8734-5bcbec220171}"
      Version="1.0.0.0"
      SharePointMinVersion="15.0.0.0"
 >

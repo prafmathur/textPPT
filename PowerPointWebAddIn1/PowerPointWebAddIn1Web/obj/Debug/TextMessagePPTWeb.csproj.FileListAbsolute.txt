@@ -18,3 +18,23 @@ c:\users\prmat\documents\visual studio 2015\Projects\PowerPointWebAddIn1\PowerPo
 c:\users\prmat\documents\visual studio 2015\Projects\PowerPointWebAddIn1\PowerPointWebAddIn1Web\obj\Debug\TextMessagePPTWeb.csprojResolveAssemblyReference.cache
 c:\users\prmat\documents\visual studio 2015\Projects\PowerPointWebAddIn1\PowerPointWebAddIn1Web\obj\Debug\PowerPointWebAddIn1Web.dll
 c:\users\prmat\documents\visual studio 2015\Projects\PowerPointWebAddIn1\PowerPointWebAddIn1Web\obj\Debug\PowerPointWebAddIn1Web.pdb
+C:\Users\prmat\projects\textPPT\PowerPointWebAddIn1\PowerPointWebAddIn1Web\bin\roslyn\csc.exe
+C:\Users\prmat\projects\textPPT\PowerPointWebAddIn1\PowerPointWebAddIn1Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\prmat\projects\textPPT\PowerPointWebAddIn1\PowerPointWebAddIn1Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\prmat\projects\textPPT\PowerPointWebAddIn1\PowerPointWebAddIn1Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\prmat\projects\textPPT\PowerPointWebAddIn1\PowerPointWebAddIn1Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\prmat\projects\textPPT\PowerPointWebAddIn1\PowerPointWebAddIn1Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\prmat\projects\textPPT\PowerPointWebAddIn1\PowerPointWebAddIn1Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\prmat\projects\textPPT\PowerPointWebAddIn1\PowerPointWebAddIn1Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\prmat\projects\textPPT\PowerPointWebAddIn1\PowerPointWebAddIn1Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\prmat\projects\textPPT\PowerPointWebAddIn1\PowerPointWebAddIn1Web\bin\roslyn\vbc.exe
+C:\Users\prmat\projects\textPPT\PowerPointWebAddIn1\PowerPointWebAddIn1Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\prmat\projects\textPPT\PowerPointWebAddIn1\PowerPointWebAddIn1Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\prmat\projects\textPPT\PowerPointWebAddIn1\PowerPointWebAddIn1Web\bin\PowerPointWebAddIn1Web.dll.config
+C:\Users\prmat\projects\textPPT\PowerPointWebAddIn1\PowerPointWebAddIn1Web\bin\PowerPointWebAddIn1Web.dll
+C:\Users\prmat\projects\textPPT\PowerPointWebAddIn1\PowerPointWebAddIn1Web\bin\PowerPointWebAddIn1Web.pdb
+C:\Users\prmat\projects\textPPT\PowerPointWebAddIn1\PowerPointWebAddIn1Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\prmat\projects\textPPT\PowerPointWebAddIn1\PowerPointWebAddIn1Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\prmat\projects\textPPT\PowerPointWebAddIn1\PowerPointWebAddIn1Web\obj\Debug\TextMessagePPTWeb.csprojResolveAssemblyReference.cache
+C:\Users\prmat\projects\textPPT\PowerPointWebAddIn1\PowerPointWebAddIn1Web\obj\Debug\PowerPointWebAddIn1Web.dll
+C:\Users\prmat\projects\textPPT\PowerPointWebAddIn1\PowerPointWebAddIn1Web\obj\Debug\PowerPointWebAddIn1Web.pdb

@@ -1,2 +1,2 @@
 bin\Debug\OfficeAppManifests\TextMessagePPTManifest.xml
-C:\Users\prmat\documents\visual studio 2015\Projects\PowerPointWebAddIn1\PowerPointWebAddIn1\bin\Debug\TextMessagePPT.debugapp
+C:\Users\prmat\projects\textPPT\PowerPointWebAddIn1\PowerPointWebAddIn1\bin\Debug\TextMessagePPT.debugapp
