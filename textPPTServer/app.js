@@ -13,10 +13,16 @@ app.get('/', (request, response) => {
   var resp = new twilio.TwimlResponse();
   resp.say('Testing Twilio and node.js');
 
-   response.writeHead(200, {
-        'Content-Type':'text/xml'
-    });
-    response.end(resp.toString());
+   // response.writeHead(200, {
+   //      'Content-Type':'text/xml'
+   //  });
+   //  response.end(resp.toString());
+
+  // TODO: Karan, the return format has to be this or something like it:
+  //       Basically a json object inside the response.jsonp parenthesis
+
+  response.jsonp({"command":"next", "sender":"232-123-1232"});
+
 })
 
 app.listen(port, (err) => {  
