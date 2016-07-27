@@ -6,10 +6,6 @@ var twilio = require('twilio');
 const port = 3000
 
 app.get('/', function(request, response) {  
-  console.log("gotten")
-
-  console.log(`server is listening on ${port}`)
-
   var resp = new twilio.TwimlResponse();
   resp.say('Testing Twilio and node.js');
 
@@ -29,7 +25,7 @@ app.listen(port, function(err) {
   if (err) {
     return console.log('something bad happened', err)
   }
-  console.log(`server is listening on ${port}`)
+  console.log(`server is listening on ` + port)
 })
 
 
