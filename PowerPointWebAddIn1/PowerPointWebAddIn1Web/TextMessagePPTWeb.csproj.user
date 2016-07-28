@@ -3,6 +3,9 @@
   <PropertyGroup>
     <UseIISExpress>true</UseIISExpress>
     <IISExpressSSLPort>44385</IISExpressSSLPort>
+    <ProfileToSelectInPublishDialog>
+    </ProfileToSelectInPublishDialog>
+    <NameOfLastUsedPublishProfile>oneweek-praful-karan</NameOfLastUsedPublishProfile>
   </PropertyGroup>
   <ProjectExtensions>
     <VisualStudio>
