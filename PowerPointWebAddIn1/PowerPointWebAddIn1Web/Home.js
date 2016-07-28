@@ -55,9 +55,11 @@
             console.log(command);
             for (var i = 0; i < command.length; i++) {
                 if (isFinite(command[i])) {
-                    goToSlide(command[i])
+                    var j;
+                    for (j = i + 1; isFinite(command[j]) && j < command.length; j++)
+                    goToSlide(command.substring(i, j))
                     break
-                }
+               }
             }
         }
 
